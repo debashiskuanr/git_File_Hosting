@@ -226,14 +226,6 @@
   ],
   "music": [
     {
-      "file": "binaural_alpha_waves.mp3",
-      "title": "Binaural alpha waves",
-      "logo": "",
-      "url": "music/binaural_alpha_waves.mp3",
-      "bytes": 1025296,
-      "sha256": "76e28be522a11f0d0f9196b0863c9757c9682110701b58e150b348e983068e84"
-    },
-    {
       "file": "binaural_gamma_30hz_rain.mp3",
       "title": "Binaural gamma 30hz rain",
       "logo": "",
