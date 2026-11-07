@@ -58,8 +58,8 @@
     {
       "file": "tutorial_always_on_vpn_xiaomi.mp4",
       "url": "tutorials/tutorial_always_on_vpn_xiaomi.mp4",
-      "bytes": 468111,
-      "sha256": "8878131200f6a3b147d49dfbfdf8d4f59fc5c0220a29ad6e47ca3e92f98b9e09"
+      "bytes": 162709,
+      "sha256": "51f5160693630f3d364481b233e23933a1a020ed2d83b170a41f51b15067f680"
     },
     {
       "file": "tutorial_battery_huawei.mp4",
@@ -100,26 +100,26 @@
     {
       "file": "tutorial_oem_autostart_huawei.mp4",
       "url": "tutorials/tutorial_oem_autostart_huawei.mp4",
-      "bytes": 468111,
-      "sha256": "8878131200f6a3b147d49dfbfdf8d4f59fc5c0220a29ad6e47ca3e92f98b9e09"
+      "bytes": 882266,
+      "sha256": "534eca1fd4a2a2300cd492af913124368c02e5552e8a18c1382c99e9f3ea2cdb"
     },
     {
       "file": "tutorial_oem_autostart_oppo.mp4",
       "url": "tutorials/tutorial_oem_autostart_oppo.mp4",
-      "bytes": 468111,
-      "sha256": "8878131200f6a3b147d49dfbfdf8d4f59fc5c0220a29ad6e47ca3e92f98b9e09"
+      "bytes": 882266,
+      "sha256": "534eca1fd4a2a2300cd492af913124368c02e5552e8a18c1382c99e9f3ea2cdb"
     },
     {
       "file": "tutorial_oem_autostart_vivo.mp4",
       "url": "tutorials/tutorial_oem_autostart_vivo.mp4",
-      "bytes": 468111,
-      "sha256": "8878131200f6a3b147d49dfbfdf8d4f59fc5c0220a29ad6e47ca3e92f98b9e09"
+      "bytes": 882266,
+      "sha256": "534eca1fd4a2a2300cd492af913124368c02e5552e8a18c1382c99e9f3ea2cdb"
     },
     {
       "file": "tutorial_oem_autostart_xiaomi.mp4",
       "url": "tutorials/tutorial_oem_autostart_xiaomi.mp4",
-      "bytes": 468111,
-      "sha256": "8878131200f6a3b147d49dfbfdf8d4f59fc5c0220a29ad6e47ca3e92f98b9e09"
+      "bytes": 882266,
+      "sha256": "534eca1fd4a2a2300cd492af913124368c02e5552e8a18c1382c99e9f3ea2cdb"
     },
     {
       "file": "tutorial_oem_background_popup_xiaomi.mp4",
