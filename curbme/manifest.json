@@ -124,8 +124,8 @@
     {
       "file": "tutorial_oem_background_popup_xiaomi.mp4",
       "url": "tutorials/tutorial_oem_background_popup_xiaomi.mp4",
-      "bytes": 192109,
-      "sha256": "3fcc65ece1e6ec3740a66f0eabf1ea9b699fa9ddeaa526fa1fff28acb4f8acea"
+      "bytes": 9290,
+      "sha256": "3d5db5805687fa44106910deefd177892d866f757240eb70d3ed94f1dba6bd4b"
     },
     {
       "file": "tutorial_overlay_huawei.mp4",
@@ -308,6 +308,15 @@
   ],
   "wallpapers": [
     {
+      "file": "dark/enchanted_forest_ruins_in_golden_mist.jpg",
+      "title": "Enchanted forest ruins in golden mist",
+      "logo": "",
+      "category": "dark",
+      "url": "wallpapers/dark/enchanted_forest_ruins_in_golden_mist.jpg",
+      "bytes": 431560,
+      "sha256": "f6dc2a2f4cb4845d44f2d507c6b606bf33e8ec59a1e90a357a8ed1b04599d2ea"
+    },
+    {
       "file": "dark/late_night_room.jpg",
       "title": "Late night room",
       "logo": "",
@@ -324,6 +333,15 @@
       "url": "wallpapers/dark/milky_way_night.jpg",
       "bytes": 452759,
       "sha256": "fe78be3ab9a6cb038819967e34fcfd4327f71d19f2fb02ef4c75d3b5de8e885a"
+    },
+    {
+      "file": "dark/misty_emerald_forest_path.jpg",
+      "title": "Misty emerald forest path",
+      "logo": "",
+      "category": "dark",
+      "url": "wallpapers/dark/misty_emerald_forest_path.jpg",
+      "bytes": 676274,
+      "sha256": "a1705a6a914ab03089d71cdf40c3a0fbeb8415ee7334f019208d3ff889343009"
     },
     {
       "file": "dark/night_dreamscape.jpg",
@@ -346,12 +364,44 @@
   ],
   "live": [
     {
+      "file": "black_hole_drift.mp4",
+      "title": "Black hole drift",
+      "logo": "",
+      "url": "live/black_hole_drift.mp4",
+      "bytes": 504713,
+      "sha256": "39b812ac052c806a79fdebc13da8438af3bd2a27a5a1ab97fab753795c258405"
+    },
+    {
+      "file": "firefly_meadow_night.mp4",
+      "title": "Firefly meadow night",
+      "logo": "",
+      "url": "live/firefly_meadow_night.mp4",
+      "bytes": 693338,
+      "sha256": "e955d3fccca9ccf796c55f1584a92709b3cb8c79acf1b92cf9460df9fbab1f45"
+    },
+    {
+      "file": "mossy_forest_light.mp4",
+      "title": "Mossy forest light",
+      "logo": "",
+      "url": "live/mossy_forest_light.mp4",
+      "bytes": 735509,
+      "sha256": "d34d6588f999bde257745685d28f87b574092a74b71b732b726f0855dd734674"
+    },
+    {
       "file": "rainy_reading_nook.mp4",
       "title": "Rainy reading nook",
       "logo": "",
       "url": "live/rainy_reading_nook.mp4",
       "bytes": 454944,
       "sha256": "89eda55a06427b098e3bdc22e971a130f187f9c4f168579af6324c0d0840feaf"
+    },
+    {
+      "file": "silent_warrior.mp4",
+      "title": "Silent warrior",
+      "logo": "",
+      "url": "live/silent_warrior.mp4",
+      "bytes": 72657,
+      "sha256": "ff1d0933e073db081df43baa6eee397d999823ef914c9a946f159bcb10c9595e"
     },
     {
       "file": "sunlit_forest_ruins.mp4",
